@@ -1,0 +1,12 @@
+{
+  "domain": "homekit_snapshot_fix",
+  "name": "Aqara Camera HomeKit Snapshot Fix",
+  "after_dependencies": ["homekit_controller"],
+  "codeowners": [],
+  "dependencies": ["camera"],
+  "documentation": "https://github.com/domotick/aqara-camera-homekit-snapshot-fix",
+  "integration_type": "system",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "0.1.0"
+}
